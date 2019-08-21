@@ -664,7 +664,7 @@ body.is-preload #header .content .inner {
     line-height: 4.75rem;
   }
 
-  #header .logo .icon:before {
+  #header .logo img {
     width: 4.75rem;
     height: 4.75rem;
     border-radius: 50%;
